@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Đào Vàng",
+  "description": "Trò chơi Đào Vàng cổ điển. \nNhấn chuột hoặc phím Space hoặc vỗ tay để thả dây",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
